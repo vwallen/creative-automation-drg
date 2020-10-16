@@ -1,0 +1,2 @@
+Cython
+-e git+https://github.com/kliment/Printrun.git#egg=Printrun
